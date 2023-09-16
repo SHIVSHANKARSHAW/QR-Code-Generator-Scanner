@@ -1,6 +1,6 @@
 # QR-Code-Generator-Scanner
 
-Introduction :- "\n"
+Introduction :- \n
 
 The project's primary aim is to develop a software tool for generating and scanning QR codes. QR codes are two-dimensional barcodes used for various purposes, including sharing URLs, contact information, Wi-Fi credentials, and more. This project provides a user-friendly interface for creating and decoding QR codes using Python.
 
